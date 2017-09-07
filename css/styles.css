@@ -1,0 +1,44 @@
+.greenhead {
+
+  border: 1px solid gray;
+  padding: 10px;
+  background-color: #b3ffb3;
+  font-style: normal;
+
+
+}
+.bluehead {
+
+  border: 1px solid gray;
+  padding: 10px;
+  background-color: #b3ffff;
+  font-style: normal;
+}
+
+.columngreen {
+  border: 1px solid gray;
+  padding: 10px;
+
+  background-color: #e6ffe6;
+  font-style: normal;
+  float: right;
+
+
+}
+.columnblue {
+  border: 1px solid gray;
+  padding: 10px;
+
+  background-color: #e6ffff;
+  font-style: normal;
+  float: right;
+}
+img {
+  margin: auto;
+  padding: 10px;
+  float: left;
+}
+#mainbody {
+
+  margin-left: 200px;
+}
